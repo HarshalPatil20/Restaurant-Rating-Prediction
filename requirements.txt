@@ -1,0 +1,9 @@
+Flask 
+sklearn
+scipy
+matplotlib
+pandas
+numpy
+seaborn
+
+joblib
